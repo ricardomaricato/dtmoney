@@ -1,10 +1,10 @@
-import { Sumary } from '../Sumary';
+import { Summary } from '../Summary';
 import { Container } from './sytles';
 
 export function Dashboard() {
   return (
     <Container>
-      <Sumary />
+      <Summary />
     </Container>
   )
 }
